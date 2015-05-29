@@ -2,7 +2,7 @@
   "name": "expressApp",
   "version": "0.0.1",
   "description": "Express app built with Node and Express",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "exp"
   },
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/geoffdavis92/expressApp/issues"
   },
-  "homepage": "https://github.com/geoffdavis92/expressApp"
+  "homepage": "https://github.com/geoffdavis92/expressApp",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
 }
