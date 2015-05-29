@@ -1,0 +1,25 @@
+{
+  "name": "expressApp",
+  "version": "0.0.1",
+  "description": "Express app built with Node and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "exp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:geoffdavis92/expressApp.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "app",
+    "javascript"
+  ],
+  "author": "@geofffdavis92",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geoffdavis92/expressApp/issues"
+  },
+  "homepage": "https://github.com/geoffdavis92/expressApp"
+}
